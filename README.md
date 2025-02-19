@@ -1,11 +1,11 @@
 <p align="center">
   <kbd>
-    <img width="100px" src="https://avatars.githubusercontent.com/u/107269758">
+    <img width="100px" src="https://avatars.githubusercontent.com/u/83433323">
   </kbd>
 </p>
 
 <h1 align="center">
-  Radon Games
+  AP Games
 </h1>
 
 <p align="center">
