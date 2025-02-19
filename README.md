@@ -19,8 +19,8 @@
 ### Installation
 
 ```bash
-git clone https://github.com/Radon-Games/Radon-Games.git
-cd Radon-Games
+git clone https://github.com/aditeyapatakoti/apgames.git
+cd apgames
 pnpm install
 pnpm run build
 pnpm run preview
